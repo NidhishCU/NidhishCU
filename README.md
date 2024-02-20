@@ -8,7 +8,7 @@
 
 👨‍💻 All of my projects are available at [https://github.com/NidhishCU](https://github.com/NidhishCU)
 
-h<h4 align="Centre"> 💬 Ask me about **JavaScript, React, Nextjs, Node.js, and any general software development questions.** </h4>
+<h3 align="right"> 💬 Ask me about **JavaScript, React, Nextjs, Node.js, and any general software development questions.** </h3>
 
 📫 How to reach me **nidhish.cu@gmail.com**
 

@@ -2,17 +2,17 @@
 ## A passionate MERN developer from India
 
 
-- 🔭 I’m currently working on [ATM Simulator](https://github.com/NidhishCU/ATM-Banking-Simulator)
+🔭 I’m currently working on [ATM Simulator](https://github.com/NidhishCU/ATM-Banking-Simulator)
 
-- 🌱 I’m currently learning **Backend@ Node.JS**
+🌱 I’m currently learning **Backend@ Node.JS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/NidhishCU](https://github.com/NidhishCU)
+👨‍💻 All of my projects are available at [https://github.com/NidhishCU](https://github.com/NidhishCU)
 
-- 💬 Ask me about **JavaScript, React, Nextjs, Node.js, and any general software development questions.**
+💬 Ask me about **JavaScript, React, Nextjs, Node.js, and any general software development questions.**
 
-- 📫 How to reach me **nidhish.cu@gmail.com**
+📫 How to reach me **nidhish.cu@gmail.com**
 
-- ⚡ Fun fact **I Love Web**
+⚡ Fun fact **I Love Web**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

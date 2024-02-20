@@ -1,5 +1,5 @@
 # 💫 About Me:
-A passionate MERN developer from India
+## A passionate MERN developer from India
 
 
 - 🔭 I’m currently working on [ATM Simulator](https://github.com/NidhishCU/ATM-Banking-Simulator)

@@ -1,5 +1,5 @@
 # 💫 About Me:
-## A passionate MERN developer from India
+## A passionate Software developer from India
 
 
 <h3> 🔭 I’m currently working on </h3> 

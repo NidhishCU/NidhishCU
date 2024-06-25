@@ -3,7 +3,7 @@
 
 
 <h3> 🔭 I’m currently working on </h3> 
-<a href="https://github.com/NidhishCU/ATM-Banking-Simulator" >ATM Simulator </a>
+<a href="https://github.com/NidhishCU" >Node.JS</a>
 
 <h3> 🌱 I’m currently learning </h3> 
  <b>Backend </b> @ Node.JS

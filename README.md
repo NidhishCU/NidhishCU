@@ -4,9 +4,6 @@
 
 <h3> 🔭 I’m currently working on </h3> 
 <a  >React-Native</a>
-
-<h3> 🌱 I’m currently learning </h3> 
- <b>Backend </b> @ Node.JS
 <h3 align="left"> 💬 Ask me about:- </h3> JavaScript, React, Nextjs, Node.js, and any general software development questions.
 <p></p>
 

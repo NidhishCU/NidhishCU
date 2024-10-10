@@ -3,9 +3,9 @@
 
 
 <h3> 🔭 I’m currently working on </h3> 
-<a  >React-Native</a>
+<a  > React & React-Native</a>
 <h3 align="left"> 💬 Ask me about:- </h3> JavaScript, React, Nextjs, Node.js, and any general software development questions.
-<p></p>
+<p>Currently Learning DevOps</p>
 
 <h3> 📫 How to reach me </h3> 
 nidhish.cu@gmail.com
